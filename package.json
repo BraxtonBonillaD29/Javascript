@@ -1,0 +1,22 @@
+{
+  "name": "javascript-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BraxtonBonillaD29/Javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Braxton Bonilla Delgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BraxtonBonillaD29/Javascript/issues"
+  },
+  "homepage": "https://github.com/BraxtonBonillaD29/Javascript#readme"
+}
